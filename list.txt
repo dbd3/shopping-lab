@@ -1,7 +1,6 @@
 milk
 eggs
 icecream
-balloons
-booze
-cake
-party favors
+pizza
+sodas
+red solo cups
